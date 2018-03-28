@@ -5,7 +5,7 @@ Creating a child relativeLayout view, Called DragChildMoveView.
 
 Use:
 
-<com.bowen.dragchildview.DragChildMoveView
+    <com.bowen.dragchildview.DragChildMoveView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/colorAccent"
